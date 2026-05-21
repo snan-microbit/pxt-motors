@@ -1,0 +1,17 @@
+{
+    "{id:category}motors": "Motores",
+    "Motor.M1|block": "1",
+    "Motor.M2|block": "2",
+    "ServoChannel.S0|block": "S0",
+    "ServoChannel.S1|block": "S1",
+    "ServoChannel.S2|block": "S2",
+    "MotorDirection.Forward|block": "adelante",
+    "MotorDirection.Backward|block": "atrás",
+    "ServoRotation.Clockwise|block": "horario",
+    "ServoRotation.CounterClockwise|block": "antihorario",
+    "motors.motorOn|block": "motor %motor|dirección %direction|velocidad %speed",
+    "motors.motorOff|block": "apagar motor %motor",
+    "motors.servoOn|block": "servo %servo|dirección %rotation|velocidad %speed",
+    "motors.servoOff|block": "apagar servo %servo",
+    "motors.servoSetAngle|block": "fijar servo %servo|al ángulo %angle"
+}

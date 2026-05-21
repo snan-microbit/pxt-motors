@@ -1,0 +1,18 @@
+{
+    "motors|block": "Bloques para controlar motores y servos de la placa Waveshare Motor Driver.",
+    "motors.motorOn": "Enciende un motor de corriente continua con una dirección y una velocidad dadas.",
+    "motors.motorOn|param|motor": "qué motor encender",
+    "motors.motorOn|param|direction": "dirección de rotación",
+    "motors.motorOn|param|speed": "velocidad de 0 a 100",
+    "motors.motorOff": "Apaga un motor (queda libre).",
+    "motors.motorOff|param|motor": "qué motor apagar",
+    "motors.servoOn": "Hace girar un servo de rotación continua con una dirección y una velocidad dadas.",
+    "motors.servoOn|param|servo": "qué canal de servo",
+    "motors.servoOn|param|rotation": "sentido de giro",
+    "motors.servoOn|param|speed": "velocidad de 0 a 100",
+    "motors.servoOff": "Detiene un servo de rotación continua.",
+    "motors.servoOff|param|servo": "qué canal de servo",
+    "motors.servoSetAngle": "Mueve un servo de 180 grados al ángulo indicado.",
+    "motors.servoSetAngle|param|servo": "qué canal de servo",
+    "motors.servoSetAngle|param|angle": "ángulo objetivo en grados (0-180)"
+}

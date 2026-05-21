@@ -1,0 +1,22 @@
+{
+    "name": "motores",
+    "version": "0.0.1",
+    "description": "Motors and servos extension for the Waveshare Motor Driver board for micro:bit. Plan Ceibal.",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/es/motores-strings.json",
+        "_locales/es/motores-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "public": true
+}
