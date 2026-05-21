@@ -1,7 +1,7 @@
 {
     "{id:category}motors": "Motores",
-    "Motor.M1|block": "1",
-    "Motor.M2|block": "2",
+    "Motor.M1|block": "A",
+    "Motor.M2|block": "B",
     "ServoChannel.S0|block": "S0",
     "ServoChannel.S1|block": "S1",
     "ServoChannel.S2|block": "S2",
