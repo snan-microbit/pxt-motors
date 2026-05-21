@@ -1,5 +1,5 @@
 {
-    "motors|block": "Bloques para controlar motores y servos de la placa Waveshare Motor Driver.",
+    "motors|block": "Motores.",
     "motors.motorOn": "Enciende un motor de corriente continua con una dirección y una velocidad dadas.",
     "motors.motorOn|param|motor": "qué motor encender",
     "motors.motorOn|param|direction": "dirección de rotación",
