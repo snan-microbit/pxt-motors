@@ -1,6 +1,6 @@
 {
     "name": "motores",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Motors and servos extension for the Waveshare Motor Driver board for micro:bit. Plan Ceibal.",
     "license": "MIT",
     "dependencies": {
