@@ -4,8 +4,6 @@ MakeCode extension for the **Waveshare Motor Driver** board for BBC micro:bit.
 Provides simple blocks to control 2 DC motors and 3 servo channels (positional
 or continuous-rotation).
 
-Developed at **Plan Ceibal** (Uruguay) for use in the micro:bit program.
-
 ## Features
 
 - 2 DC motors with direction (forward / backward) and speed (0–100).
@@ -57,10 +55,6 @@ The pulse convention used is:
 Whether "clockwise" maps to the direction you expect depends on how the servo
 is mounted. If your servo turns the opposite way, swap the direction in the
 block.
-
-## License
-
-MIT — see `LICENSE`.
 
 ## Supported targets
 
