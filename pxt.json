@@ -1,6 +1,6 @@
 {
     "name": "motores",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "Extensión para placa controladora de motores del kit de periféricos micro:bit de Ceibal",
     "license": "MIT",
     "dependencies": {
