@@ -87,7 +87,7 @@ namespace motors {
      */
     //% blockId=motors_motor_on
     //% block="motor %motor|direction %direction|speed %speed"
-    //% speed.min=0 speed.max=10
+    //% speed.min=0 speed.max=100
     //% weight=100
     export function motorOn(motor: Motor, direction: MotorDirection, speed: number): void {
         const pwm = Math.map(Math.clamp(0, 100, speed), 0, 100, 0, 1023);
@@ -141,7 +141,7 @@ namespace motors {
      */
     //% blockId=motors_servo_on
     //% block="servo %servo|direction %rotation|speed %speed"
-    //% speed.min=0 speed.max=10
+    //% speed.min=0 speed.max=100
     //% weight=80
     export function servoOn(servo: ServoChannel, rotation: ServoRotation, speed: number): void {
         const s = Math.clamp(0, 100, speed);
